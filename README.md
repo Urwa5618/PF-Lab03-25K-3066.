@@ -7,4 +7,5 @@ I am currently Studying software engineering from FAST(NUCES) Karachi looking fo
 - George Washington
 * John Adams
 + Thomas Jefferson
-***Thank you very much***\
+  
+***Thank you very much***.
