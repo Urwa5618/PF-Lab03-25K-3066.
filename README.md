@@ -1,2 +1,2 @@
 Hi, I’m Urwa Rafique.
-Aspiring Computer Science student & future Software Engineer.
+I am currently Studying software engineering from FAST(NUCES) Karachi looking forward to become a game developer, app developer etc.
